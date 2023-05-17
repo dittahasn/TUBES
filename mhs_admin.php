@@ -163,7 +163,7 @@ if (empty($_SESSION['mhs_nik'])) { ?>
                                             NIK
                                         </td>
                                         <td>
-                                            Nama Lengkap
+                                            Alviansyah
                                         </td>
                                         <td>
                                             Role
