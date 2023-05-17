@@ -115,7 +115,7 @@ if (empty($_SESSION['mhs_nik'])) { ?>
 
                 <!-- Topbar -->
                 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
-                    <h3>Travel Log | Catatan Pejalanan</h3>
+                    <h3>Travel Log | kybo</h3>
                     
                 </nav>
                 <!-- End of Topbar -->
