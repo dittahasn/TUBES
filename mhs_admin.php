@@ -18,7 +18,7 @@ if (empty($_SESSION['mhs_nik'])) { ?>
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Admin - Aplikasi Travel Log </title>
+    <title>Memories With Friends</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
