@@ -223,7 +223,7 @@ if (empty($_SESSION['mhs_nik'])) { ?>
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Aplikasi Travel Log 2022 | mhs hasna</span>
+                        <span>Copyright &copy; Aplikasi Travel Log 2022 | mhs bagja</span>
                     </div>
                 </div>
             </footer>
