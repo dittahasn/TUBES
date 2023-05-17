@@ -169,7 +169,7 @@ if (empty($_SESSION['mhs_nik'])) { ?>
                                             Role
                                         </td>
                                         <td>
-                                            Foto
+                                            Sasa
                                         </td>
                                         <td>
                                             Lainnya
