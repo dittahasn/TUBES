@@ -66,7 +66,6 @@ if (empty($_SESSION['mhs_nik'])) { ?>
                     <i class="fas fa-fw fa-home"></i>
                     <span>Home</span></a>
             </li>
-
             <!-- Divider -->
             <hr class="sidebar-divider">
 
@@ -77,6 +76,11 @@ if (empty($_SESSION['mhs_nik'])) { ?>
 
             
             <!-- Nav Item - Charts -->
+            <li class="nav-item">
+                <a class="nav-link" href="?url=mhs_add.php">
+                    <i class="fas fa-fw fa-plus"></i>
+                    <span>Add Friends</span></a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="?url=mhs_tulis_catatan">
                     <i class="fas fa-fw fa-pen"></i>
